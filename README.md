@@ -11,3 +11,6 @@ All game logic and both frontends are contained in a single file: `DealNoDeal.ja
 javac DealNoDeal.java
 java DealNoDeal
 ```
+
+![Deal or No Deal](image.png)
+![Deal or No Deal](Screenshot 2026-04-06 003537.png)
