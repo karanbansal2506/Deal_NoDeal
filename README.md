@@ -8,8 +8,7 @@ All game logic and both frontends are contained in a single file: `DealNoDeal.ja
 
 ## How to Run
 ```
-javac DealNoDeal.java
-java DealNoDeal
+java DealNoDeal.java
 ```
 
 ![Deal or No Deal](image.png)
